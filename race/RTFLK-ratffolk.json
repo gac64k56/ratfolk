@@ -1,0 +1,123 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Ratfolk",
+				"abbreviation": "RTFLK",
+				"full": "Ratfolk",
+				"url": "https://drive.google.com/file/d/1Os9b7vIina0gS9BDMTTmeyuI_VOdirRG/view",
+				"authors": [
+					"DresdinSeven"
+				],
+                "version": "1.2",
+				"convertedBy": [
+					"gac64k56"
+				]
+			}
+		],
+        "dataAdded": "1690545572"
+	},
+    "race": [
+        {
+            "name": "Ratfolk",
+            "source": "Ratfolk",
+            "page": 0,
+            "ability": [
+                {
+                    "dex": 1,
+                    "int": 1
+                }
+            ],
+            "size": [
+                "M"
+            ],
+            "speed": 30,
+            "enteries": [
+                {
+                    "name": "Age",
+                    "entries": [
+                        "Ratfolks reach adulthood at 12 and can live up to 50 years."
+                    ],
+                    "type": "enteries"
+                },
+                {
+                    "name": "Alignment",
+                    "entries": [
+                        "Ratfolk tend towards neutral alignments. Whether charitable or selfish, they are dispositioned towards a practical mindset."
+                    ],
+                    "type": "enteries"
+                },
+                {
+                    "name": "Size",
+                    "entries": [
+                        "Ratfolk are noticeably shorter than humans, ranging from 4 to 5 feet tall. Your size is Medium."
+                    ],
+                    "type": "enteries"
+                },
+                {
+                    "name": "Speed",
+                    "entries": [
+                        "Your base walking speed is 30 feet."
+                    ],
+                    "type": "enteries"
+                },
+                {
+                    "name": "Brethren of the Swarm",
+                    "entries": [
+                        "Mice and rats of all types will not show unprovoked hostility towards you unless threatened. Additionally, you can communicate simple ideas with them through speaking Rattus."
+                    ],
+                    "type": "enteries"
+                },
+                {
+                    "name": "Keen Senses",
+                    "entries": [
+                        "You have advantage on Wisdom (Perception) checks that involve hearing or smell."
+                    ],
+                    "type": "enteries"
+                },
+                {
+                    "name": "Languages",
+                    "entries": [
+                        "You can speak, read, and write Common and Rattus. Rattus is a dialect of Sylvan which is spoken with an inflection that favors chitters and squeaks."
+                    ],
+                    "type": "enteries"
+                },
+                {
+                    "name": "Scurry",
+                    "entries": [
+                        "You are able to slip and squeeze through small openings. You have advantage on Dexterity (Acrobatics) to fit through tight spaces and squeezing through narrow passages doesn't cost you extra movement."
+                    ],
+                    "type": "enteries"
+                }
+            ],
+            "heightAndWeight": {
+				"baseHeight": 48,
+				"heightMod": "2d8",
+				"baseWeight": 80,
+				"weightMod": "5d8"
+            },
+            "fluff": {
+				"entries": [
+					{
+						"type": "quote",
+						"entries": [
+							"\"Da boss Conan asked me what my job was an' I said it was to, uh, do what I was told. He said I was a genius and gave me another medal. I likes da Aldis army!\" - Rogg, Man-Ogre"
+						]
+					},
+					"Man-Ogres have thick skin, powerfully muscular builds and are of monstrous size, as they stand around 7 to 8 feet tall. Though their Ogre heritage has led them to increase in physical size and strength, the Man-Ogre's intelligence declined to below average human levels. Possessed of little more than only primitive survival instincts, part of their nonhuman heritage involved the loss of the ability for more complex intellectual thought since philosophical matters were unnecessary in an environment marked by starvation and a constant fight for life.",
+					"Man-Ogres are said to be even less intelligent than some Orcs. However, the truth is that their intellects are not in fact stunted, but much more focused on matters such as survival. An affinity for magic is virtually unknown among Man-Ogres as a result. A Man-Ogre's speech patterns have been noted to be much the same as those observed in feral Orcs."
+				]
+			},
+			"languageProficiencies": [
+				{
+					"common": true,
+					"Rattus": true
+				}
+			],
+			"age": {
+				"mature": 12,
+				"max": 50
+			}
+        }
+    ]
+}

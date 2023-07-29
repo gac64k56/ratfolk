@@ -8,8 +8,8 @@ Converted by [gac64k56](https://www.reddit.com/user/gac64k56/)
 For use with 5e Tools Homebrew
 
 # Artist Credit
-[Main Page](images/packrat.png) by Paizo<br />
-[Fancy Rat (RedEye Ratfolk)](images/fancyrat.png) by Alec Adams<br />
-[Pack Rat (Ratfolk gnawer)](images/packrat.png) by Tim Kings-Lynne<br />
-[Sewer Rat (Gutter Runner)](images/sewerrat.png) by Black Hole Entertainment<br />
-[Wood Rat (Grass Shaman - Plaguenest)](images/woodrat.png) by BrittMartin
+[Main Page](_img/RTFLK/ratfolk.png) by Paizo<br />
+[Fancy Rat (RedEye Ratfolk)](_img/RTFLK/fancyrat.png) by Alec Adams<br />
+[Pack Rat (Ratfolk gnawer)](_img/RTFLK/packrat.png) by Tim Kings-Lynne<br />
+[Sewer Rat (Gutter Runner)](_img/RTFLK/sewerrat.png) by Black Hole Entertainment<br />
+[Wood Rat (Grass Shaman - Plaguenest)](_img/RTFLK/woodrat.png) by BrittMartin
