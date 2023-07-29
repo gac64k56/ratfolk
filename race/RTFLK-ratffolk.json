@@ -99,13 +99,21 @@
             "fluff": {
 				"entries": [
 					{
-						"type": "quote",
+						"type": "entries",
+                        "name": "A Small and Curious Folk",
 						"entries": [
-							"\"Da boss Conan asked me what my job was an' I said it was to, uh, do what I was told. He said I was a genius and gave me another medal. I likes da Aldis army!\" - Rogg, Man-Ogre"
+							"A few Ratfolk seem to be found in every city, tucked away in the crevices of a rundown district or passing through as a group of bright eyed merchants. Small, diminutive, and often quick with a sarcastic remark, they blend into the background noise of a cityscape or small forest community. And that is exactly how they prefer to have it.",
+                            "Ratfolk come in a variety of colors, coats, and builds. But even more diverse than their appearance is their curiosity. It is seldom a day that goes by that a Ratfolk isn't poking their nose into a new experience or trinket, for good or bad. It is said that a Ratfolk that sits still too long may die of boredom."
 						]
-					},
-					"Man-Ogres have thick skin, powerfully muscular builds and are of monstrous size, as they stand around 7 to 8 feet tall. Though their Ogre heritage has led them to increase in physical size and strength, the Man-Ogre's intelligence declined to below average human levels. Possessed of little more than only primitive survival instincts, part of their nonhuman heritage involved the loss of the ability for more complex intellectual thought since philosophical matters were unnecessary in an environment marked by starvation and a constant fight for life.",
-					"Man-Ogres are said to be even less intelligent than some Orcs. However, the truth is that their intellects are not in fact stunted, but much more focused on matters such as survival. An affinity for magic is virtually unknown among Man-Ogres as a result. A Man-Ogre's speech patterns have been noted to be much the same as those observed in feral Orcs."
+                    },
+                    {
+						"type": "entries",
+                        "name": "A Small and Curious Folk",
+						"entries": [
+							"A few Ratfolk seem to be found in every city, tucked away in the crevices of a rundown district or passing through as a group of bright eyed merchants. Small, diminutive, and often quick with a sarcastic remark, they blend into the background noise of a cityscape or small forest community. And that is exactly how they prefer to have it.",
+                            "Ratfolk come in a variety of colors, coats, and builds. But even more diverse than their appearance is their curiosity. It is seldom a day that goes by that a Ratfolk isn't poking their nose into a new experience or trinket, for good or bad. It is said that a Ratfolk that sits still too long may die of boredom."
+						]
+					}
 				]
 			},
 			"languageProficiencies": [
