@@ -1,0 +1,409 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Ratfolk",
+				"abbreviation": "RTFLK",
+				"full": "Ratfolk",
+				"url": "https://drive.google.com/file/d/1Os9b7vIina0gS9BDMTTmeyuI_VOdirRG/view",
+				"authors": [
+					"DresdinSeven"
+				],
+                "version": "1.2",
+				"convertedBy": [
+					"gac64k56"
+				]
+			}
+		],
+        "dataAdded": "1690545572"
+	},
+    "language": [
+        {
+            "name": "Rattus",
+            "source": "Ratfolk",
+			"page": 0,
+			"entries": [
+				"A dialect of Sylvan which is spoken with an inflection that favors chitters and squeaks."
+			],
+			"type": "exotic"
+		}
+    ],
+    "race": [
+        {
+            "name": "Ratfolk",
+            "source": "Ratfolk",
+            "page": 0,
+            "ability": [
+                {
+                    "dex": 1,
+                    "int": 1
+                }
+            ],
+            "size": [
+                "M"
+            ],
+            "speed": 30,
+            "entries": [
+                {
+                    "name": "Age",
+                    "entries": [
+                        "Ratfolks reach adulthood at 12 and can live up to 50 years."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Alignment",
+                    "entries": [
+                        "Ratfolk tend towards neutral alignments. Whether charitable or selfish, they are dispositioned towards a practical mindset."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Size",
+                    "entries": [
+                        "Ratfolk are noticeably shorter than humans, ranging from 4 to 5 feet tall. Your size is Medium."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Speed",
+                    "entries": [
+                        "Your base walking speed is 30 feet."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Brethren of the Swarm",
+                    "entries": [
+                        "Mice and rats of all types will not show unprovoked hostility towards you unless threatened. Additionally, you can communicate simple ideas with them through speaking Rattus."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Keen Senses",
+                    "entries": [
+                        "You have advantage on Wisdom (Perception) checks that involve hearing or smell."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Languages",
+                    "entries": [
+                        "You can speak, read, and write Common and Rattus. Rattus is a dialect of Sylvan which is spoken with an inflection that favors chitters and squeaks."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Scurry",
+                    "entries": [
+                        "You are able to slip and squeeze through small openings. You have advantage on Dexterity (Acrobatics) to fit through tight spaces and squeezing through narrow passages doesn't cost you extra movement."
+                    ],
+                    "type": "entries"
+                }
+            ],
+            "heightAndWeight": {
+				"baseHeight": 48,
+				"heightMod": "2d8",
+				"baseWeight": 80,
+				"weightMod": "5d8"
+            },
+            "fluff": {
+				"entries": [
+					{
+						"type": "entries",
+                        "name": "A Small and Curious Folk",
+						"entries": [
+							"A few Ratfolk seem to be found in every city, tucked away in the crevices of a rundown district or passing through as a group of bright eyed merchants. Small, diminutive, and often quick with a sarcastic remark, they blend into the background noise of a cityscape or small forest community. And that is exactly how they prefer to have it.",
+                            "Ratfolk come in a variety of colors, coats, and builds. But even more diverse than their appearance is their curiosity. It is seldom a day that goes by that a Ratfolk isn't poking their nose into a new experience or trinket, for good or bad. It is said that a Ratfolk that sits still too long may die of boredom."
+						]
+                    },
+                    {
+						"type": "entries",
+                        "name": "The Mischiefs Abound",
+						"entries": [
+							"A common thread about Ratfolk communities is that they are seldom invited to set up shop by the locals. Most often a collection of them will simply and suddenly appear and then begin to nestle into dwellings as they please. These small self-contained communities are called mischiefs. Each mischief is a complex web of social bonds and hierarchies which shift as new Ratfolk arrive, others leave for some reason or other, strong leaders grow feeble, or as the whims of the group change without provocation.",
+                            "Ratkin feel a strong need to be with others, either within an established mischief or with a group of close friends. A wandering Ratfolk will grow sad and long for the world if unable to find a community of some sort.",
+                            "This need for companionship leads some Ratfolk struck by wanderlust to join up with groups of adventurers, with who they will forge a deep bond. While a tired idiom to many, for these Ratfolk the real treasure are the friends and stories they made along the way."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "The Swarmhead's Great Hoarde",
+						"entries": [
+							"Spirituality is a complex subject for Ratfolk. Typically a local mischief will adopt similar faith practices to the communities they are closest to.",
+                            "However, in addition to this worship each mischief also harbors belief in an entity known simply as the Swarmhead. Belief in this entity seems to inevitably and organically creep into the belief system of every Ratfolk group. Mischiefs totally isolated from each other seem to have an uncanny spiritual congruence.",
+                            "Some claim it is a great cosmic rat which cares for each Ratfolk individually, waiting for the right time to lead the swarms to paradise. Others claim it to be not an individual but the collective willpower of a rising tide of vermin which will one day engulf all that ratkind has touched. For as many mischiefs of Ratfolk exist, there are just as many beliefs about the nature, intentions, and purpose of the Swarmhead."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "Ratfolk Names",
+						"entries": [
+							"Ratfolk are given names at birth in Rattus, their native language. As a language of squeeks and chitters, there are no equivalent versions of these names in Common. Instead, a Ratfolk will pick a name from the surrounding culture or inevitably acquire a nickname from their acquaintances."
+						]
+					}
+				],
+                "images": [
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://raw.githubusercontent.com/gac64k56/ratfolk/main/_img/RTFLK/RTFLK-ratfolk.png"
+                        }
+                    }
+                ]
+			},
+			"languageProficiencies": [
+				{
+					"common": true,
+					"Rattus": true
+				}
+			],
+			"age": {
+				"mature": 12,
+				"max": 50
+			}
+        }
+    ],
+    "subrace": [
+        {
+            "name": "Fancy Rat",
+            "source": "Ratfolk",
+            "raceName": "Ratfolk",
+            "raceSource": "Ratfolk",
+            "page": 1,
+            "ability": [
+                {
+                    "cha": 1
+                }
+            ],
+            "size": [
+                "M"
+            ],
+            "speed": 30,
+            "entries": [
+                {
+                    "name": "Ability Score Increase",
+                    "entries": [
+                        "Your Charisma increases by 1."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Languages",
+                    "entries": [
+                        "In addition to Common and Rattus, you know two additional languages of your choice."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Affable Candor",
+                    "entries": [
+                        "You gain proficiency in the Persuasion skill."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Curious Mind",
+                    "entries": [
+                        "You gain proficiency in one skill of your choice."
+                    ],
+                    "type": "entries"
+                }
+            ],
+            "heightAndWeight": {
+				"baseHeight": 48,
+				"heightMod": "2d8",
+				"baseWeight": 80,
+				"weightMod": "5d8"
+            },
+            "fluff": {
+				"entries": [
+					{
+						"type": "entries",
+                        "name": "A Small and Curious Folk",
+						"entries": [
+							"A few Ratfolk seem to be found in every city, tucked away in the crevices of a rundown district or passing through as a group of bright eyed merchants. Small, diminutive, and often quick with a sarcastic remark, they blend into the background noise of a cityscape or small forest community. And that is exactly how they prefer to have it.",
+                            "Ratfolk come in a variety of colors, coats, and builds. But even more diverse than their appearance is their curiosity. It is seldom a day that goes by that a Ratfolk isn't poking their nose into a new experience or trinket, for good or bad. It is said that a Ratfolk that sits still too long may die of boredom."
+						]
+                    },
+                    {
+						"type": "entries",
+                        "name": "The Mischiefs Abound",
+						"entries": [
+							"A common thread about Ratfolk communities is that they are seldom invited to set up shop by the locals. Most often a collection of them will simply and suddenly appear and then begin to nestle into dwellings as they please. These small self-contained communities are called mischiefs. Each mischief is a complex web of social bonds and hierarchies which shift as new Ratfolk arrive, others leave for some reason or other, strong leaders grow feeble, or as the whims of the group change without provocation.",
+                            "Ratkin feel a strong need to be with others, either within an established mischief or with a group of close friends. A wandering Ratfolk will grow sad and long for the world if unable to find a community of some sort.",
+                            "This need for companionship leads some Ratfolk struck by wanderlust to join up with groups of adventurers, with who they will forge a deep bond. While a tired idiom to many, for these Ratfolk the real treasure are the friends and stories they made along the way."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "The Swarmhead's Great Hoarde",
+						"entries": [
+							"Spirituality is a complex subject for Ratfolk. Typically a local mischief will adopt similar faith practices to the communities they are closest to.",
+                            "However, in addition to this worship each mischief also harbors belief in an entity known simply as the Swarmhead. Belief in this entity seems to inevitably and organically creep into the belief system of every Ratfolk group. Mischiefs totally isolated from each other seem to have an uncanny spiritual congruence.",
+                            "Some claim it is a great cosmic rat which cares for each Ratfolk individually, waiting for the right time to lead the swarms to paradise. Others claim it to be not an individual but the collective willpower of a rising tide of vermin which will one day engulf all that ratkind has touched. For as many mischiefs of Ratfolk exist, there are just as many beliefs about the nature, intentions, and purpose of the Swarmhead."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "Ratfolk Names",
+						"entries": [
+							"Ratfolk are given names at birth in Rattus, their native language. As a language of squeeks and chitters, there are no equivalent versions of these names in Common. Instead, a Ratfolk will pick a name from the surrounding culture or inevitably acquire a nickname from their acquaintances."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "Fancy Rat",
+						"entries": [
+                            "Among the mischiefs which settle into the sleepy corners of cities are those Ratfolk who busy themselves with past times and small talk. Between their frequent meals, social engagements, grooming breaks, and general ruckus it is a wonder that they can somehow pull a livelihood.",
+                            "The Fancy Rat's secret is to pull together for one another as needed, giving freely from one to another in the mischief and lean into the tight bonds of kinship that they have formed. This creates a complex web of favors, gratitude, and debts which are traded amongst each other as freely as coin. As long as the mischief prospers, temporary grievances and slacking can be overlooked. But in times of need, each Ratfolk holds one another accountable to put forward what is needed for the mischief, and then some."
+                        ]
+                    }
+                ],
+                "images": [
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://raw.githubusercontent.com/gac64k56/ratfolk/main/_img/RTFLK/RTFLK-fancyrat.png"
+                        }
+                    }
+                ]
+			},
+			"languageProficiencies": [
+				{
+					"common": true,
+					"Rattus": true
+				}
+			],
+			"age": {
+				"mature": 12,
+				"max": 50
+			}
+        },
+        {
+            "name": "Pack Rat",
+            "source": "Ratfolk",
+            "raceName": "Ratfolk",
+            "raceSource": "Ratfolk",
+            "page": 1,
+            "ability": [
+                {
+                    "str": 1
+                }
+            ],
+            "size": [
+                "M"
+            ],
+            "speed": 30,
+            "entries": [
+                {
+                    "name": "Ability Score Increase",
+                    "entries": [
+                        "Your Strength increases by 1."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Languages",
+                    "entries": [
+                        "In addition to Common and Rattus, you know two additional languages of your choice."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Appraiser's Eye",
+                    "entries": [
+                        "You have advantage on Intelligence (Arcana and Investigation) checks to identify objects and their worth."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Crafty Hands",
+                    "entries": [
+                        "You gain one tool proficiency of your choice."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Powerful Build",
+                    "entries": [
+                        "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+                    ],
+                    "type": "entries"
+                }
+            ],
+            "heightAndWeight": {
+				"baseHeight": 48,
+				"heightMod": "2d8",
+				"baseWeight": 80,
+				"weightMod": "5d8"
+            },
+            "fluff": {
+				"entries": [
+					{
+						"type": "entries",
+                        "name": "A Small and Curious Folk",
+						"entries": [
+							"A few Ratfolk seem to be found in every city, tucked away in the crevices of a rundown district or passing through as a group of bright eyed merchants. Small, diminutive, and often quick with a sarcastic remark, they blend into the background noise of a cityscape or small forest community. And that is exactly how they prefer to have it.",
+                            "Ratfolk come in a variety of colors, coats, and builds. But even more diverse than their appearance is their curiosity. It is seldom a day that goes by that a Ratfolk isn't poking their nose into a new experience or trinket, for good or bad. It is said that a Ratfolk that sits still too long may die of boredom."
+						]
+                    },
+                    {
+						"type": "entries",
+                        "name": "The Mischiefs Abound",
+						"entries": [
+							"A common thread about Ratfolk communities is that they are seldom invited to set up shop by the locals. Most often a collection of them will simply and suddenly appear and then begin to nestle into dwellings as they please. These small self-contained communities are called mischiefs. Each mischief is a complex web of social bonds and hierarchies which shift as new Ratfolk arrive, others leave for some reason or other, strong leaders grow feeble, or as the whims of the group change without provocation.",
+                            "Ratkin feel a strong need to be with others, either within an established mischief or with a group of close friends. A wandering Ratfolk will grow sad and long for the world if unable to find a community of some sort.",
+                            "This need for companionship leads some Ratfolk struck by wanderlust to join up with groups of adventurers, with who they will forge a deep bond. While a tired idiom to many, for these Ratfolk the real treasure are the friends and stories they made along the way."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "The Swarmhead's Great Hoarde",
+						"entries": [
+							"Spirituality is a complex subject for Ratfolk. Typically a local mischief will adopt similar faith practices to the communities they are closest to.",
+                            "However, in addition to this worship each mischief also harbors belief in an entity known simply as the Swarmhead. Belief in this entity seems to inevitably and organically creep into the belief system of every Ratfolk group. Mischiefs totally isolated from each other seem to have an uncanny spiritual congruence.",
+                            "Some claim it is a great cosmic rat which cares for each Ratfolk individually, waiting for the right time to lead the swarms to paradise. Others claim it to be not an individual but the collective willpower of a rising tide of vermin which will one day engulf all that ratkind has touched. For as many mischiefs of Ratfolk exist, there are just as many beliefs about the nature, intentions, and purpose of the Swarmhead."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "Ratfolk Names",
+						"entries": [
+							"Ratfolk are given names at birth in Rattus, their native language. As a language of squeeks and chitters, there are no equivalent versions of these names in Common. Instead, a Ratfolk will pick a name from the surrounding culture or inevitably acquire a nickname from their acquaintances."
+						]
+					},
+                    {
+						"type": "entries",
+                        "name": "Pack Rat",
+						"entries": [
+                            "In each mischief there will be certain individuals drawn towards a more industrious or mercantile lifestyle. Ratfolk who seem content to set up a shop of curiosities, a small work bench, or an ecclectic habidashery and earn their coin with their hands. These are the Pack Rats.",
+                            "Less common is for a small mischief of Pack Rats to travel as a caravan, each laden with wares, raw materials, and crafting equipment. While rare, these Pack Rats are vital to the greater Ratfolk community as they form the social strands that connect the various mischiefs strewn about here and there. Along with trade goods the Pack Rat brings with them the invaluable commodity of news and information."
+                        ]
+                    }
+                ],
+                "images": [
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://raw.githubusercontent.com/gac64k56/ratfolk/main/_img/RTFLK/RTFLK-packrat.png"
+                        }
+                    }
+                ]
+			},
+			"languageProficiencies": [
+				{
+					"common": true,
+					"Rattus": true
+				}
+			],
+			"age": {
+				"mature": 12,
+				"max": 50
+			}
+        }
+    ]
+}
